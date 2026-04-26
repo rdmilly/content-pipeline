@@ -1,0 +1,25 @@
+# Outputs (videos, transcripts, scripts)
+outputs/
+*.mkv
+*.mp4
+*.wav
+*.mp3
+
+# Session catalog (local state)
+session-catalog.json
+
+# Environment files
+*.env
+content-pipeline.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+*.vbs
